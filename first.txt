@@ -1,1 +1,2 @@
-Hello Git
+Hello Git.
+Today is 10-feb-2023
